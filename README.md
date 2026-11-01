@@ -30,6 +30,18 @@ Die Mod ist für Mehrspieler-Spiele ausgelegt und unterstützt dedizierte Window
 - Nach dem Landen kann man ganz normal laufen; der Flugmodus wird erst wieder aktiv, wenn man bewusst erneut aufsteigt
 - Das Bau-Overlay blockiert das Umschalten des Flugmodus und Geschwindigkeitsänderungen
 - Kollisionen deaktivieren den Flugmodus nicht absichtlich
+- Mod-Menü zum Anpassen der Flugmodus-Taste, der Geschwindigkeits-Zusatztaste im Baumenü und des Godmodes
+
+## Mod-Menü
+
+Über das Mod-Menü (In-Game ESC-Menü oder Hauptmenü unter "Mods") lassen sich folgende Einstellungen anpassen:
+
+- Flugmodus-Taste (Standard: `G`)
+- Geschwindigkeits-Taste im Baumenü (Standard: `Linke Alt-Taste`)
+- Godmode (Unverwundbarkeit) ein-/ausschalten
+- Ein manueller "Speichern"-Button, um Einstellungen sofort zu sichern
+
+> ?? **Bekannter Fehler:** Die "Geschwindigkeits-Taste (Baumenü)" wird zwar gespeichert, wirkt sich aber aktuell nicht auf das tatsächliche Verhalten aus - das Mausrad reserviert die Geschwindigkeitsänderung im Baumenü weiterhin nur bei der Standardtaste `Linke Alt-Taste`. Die Flugmodus-Taste ist davon nicht betroffen. Eine Behebung ist in Arbeit.
 
 ## Tastenbelegung
 
@@ -102,6 +114,7 @@ Ready to take flight? Get FlybySeaN now on the FICSIT Mod Repository!
 
 [![Download FlybySeaN](https://img.shields.io/badge/Download-FlybySeaN-blue?style=for-the-badge&logo=modrinth)](https://ficsit.app/mod/FlybySeaN)
 
+
 # FlybySeaN
 
 FlybySeaN adds a free-flight mode to Satisfactory. It allows all players to fly freely without enabling Creative Mode.
@@ -137,6 +150,17 @@ The mod is designed for multiplayer and supports dedicated Windows and Linux ser
 | Mouse Wheel Down | Decrease flight speed |
 
 Flight toggling and speed changes are blocked while the Build Gun overlay is active.
+
+## Mod Menu
+
+The mod configuration menu (in-game ESC menu or main menu under "Mods") allows configuring:
+
+- Flight toggle key (default: `G`)
+- Speed modifier key in the build menu (default: `Left Alt`)
+- Godmode (invincibility) toggle
+- A manual "Save" button to immediately persist settings
+
+> ?? **Known issue:** The "Speed Key (Build Menu)" setting is saved correctly, but currently has no effect on actual behavior - the mouse wheel speed reservation in the build menu still only works with the default key `Left Alt`. The flight toggle key is not affected by this bug. A fix is in progress.
 
 ## Flight Speed Levels
 
