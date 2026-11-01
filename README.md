@@ -1,6 +1,11 @@
 <details open>
-  Link: https://ficsit.app/mod/FlybySeaN
 <summary><strong>Deutsch</strong></summary>
+
+## 🚀 FlybySeaN herunterladen
+
+Bereit zum Abheben? Hol dir FlybySeaN jetzt im FICSIT Mod Repository!
+
+[![FlybySeaN herunterladen](https://img.shields.io/badge/Download-FlybySeaN-blue?style=for-the-badge&logo=modrinth)](https://ficsit.app/mod/FlybySeaN)
 
 # FlybySeaN
 
@@ -90,6 +95,12 @@ Die Mod muss sowohl auf dem Client als auch auf dem dedizierten Server installie
 
 <details>
 <summary><strong>English</strong></summary>
+
+## 🚀 Get FlybySeaN
+
+Ready to take flight? Get FlybySeaN now on the FICSIT Mod Repository!
+
+[![Download FlybySeaN](https://img.shields.io/badge/Download-FlybySeaN-blue?style=for-the-badge&logo=modrinth)](https://ficsit.app/mod/FlybySeaN)
 
 # FlybySeaN
 
