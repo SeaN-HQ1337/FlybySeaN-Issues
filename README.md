@@ -1,4 +1,5 @@
 <details open>
+  Link: https://ficsit.app/mod/FlybySeaN
 <summary><strong>Deutsch</strong></summary>
 
 # FlybySeaN
